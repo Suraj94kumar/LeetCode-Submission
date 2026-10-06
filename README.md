@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0136-single-number) |
 | [0682-baseball-game](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0682-baseball-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
