@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0682-baseball-game](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0682-baseball-game) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
