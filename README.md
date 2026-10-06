@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0682-baseball-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
