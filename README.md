@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0682-baseball-game) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1470-shuffle-the-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0217-contains-duplicate) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
