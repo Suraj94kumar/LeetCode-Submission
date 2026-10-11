@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
