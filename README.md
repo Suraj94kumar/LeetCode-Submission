@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0085-maximal-rectangle) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0283-move-zeroes) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0217-contains-duplicate) |
@@ -203,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
