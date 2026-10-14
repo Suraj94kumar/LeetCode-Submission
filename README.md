@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0075-sort-colors) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
