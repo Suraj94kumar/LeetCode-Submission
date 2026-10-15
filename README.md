@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0085-maximal-rectangle) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
