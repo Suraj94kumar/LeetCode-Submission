@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0016-3sum-closest) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
