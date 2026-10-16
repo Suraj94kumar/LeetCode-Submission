@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Enumeration
 |  |
@@ -251,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
