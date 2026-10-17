@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1021-remove-outermost-parentheses) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0024-swap-nodes-in-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
