@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0085-maximal-rectangle) |
 | [1672-richest-customer-wealth](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
 ## Simulation
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1512-number-of-good-pairs) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
