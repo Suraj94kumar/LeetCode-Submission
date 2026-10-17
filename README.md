@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0078-subsets) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
