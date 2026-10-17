@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0189-rotate-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0135-candy) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
