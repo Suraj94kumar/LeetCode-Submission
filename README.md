@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Divide and Conquer
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1512-number-of-good-pairs) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -224,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
