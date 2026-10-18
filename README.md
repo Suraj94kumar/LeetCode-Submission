@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Trie
 |  |
@@ -241,15 +245,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -285,4 +292,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
