@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0101-symmetric-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Union-Find
 |  |
 | ------- |
