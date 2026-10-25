@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0682-baseball-game) |
+| [1254-number-of-closed-islands](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0085-maximal-rectangle) |
+| [1254-number-of-closed-islands](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0101-symmetric-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
 ## Counting Sort
 |  |
 | ------- |
@@ -316,9 +319,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1254-number-of-closed-islands](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
