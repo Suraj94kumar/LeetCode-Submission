@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0383-ransom-note) |
+| [0686-repeated-string-match](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -407,4 +408,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
