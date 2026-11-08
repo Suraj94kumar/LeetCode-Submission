@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
+| [0383-ransom-note](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0383-ransom-note) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1512-number-of-good-pairs) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0383-ransom-note) |
 | [1267-count-servers-that-communicate](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
