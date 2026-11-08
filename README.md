@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0022-generate-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0171-excel-sheet-column-number) |
 | [0301-remove-invalid-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1021-remove-outermost-parentheses) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0048-rotate-image) |
+| [0171-excel-sheet-column-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
