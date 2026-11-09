@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0300-longest-increasing-subsequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/3665-twisted-mirror-path-count) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -434,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
