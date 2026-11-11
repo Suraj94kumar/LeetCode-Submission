@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
