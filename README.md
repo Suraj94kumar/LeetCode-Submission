@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0268-missing-number) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
@@ -457,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0300-longest-increasing-subsequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Suraj94kumar/LeetCode-Submission/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
